@@ -1,6 +1,5 @@
 GettingAndCleaningData
 
-Repository for Cousera: https://class.coursera.org/getdata-008
 
 run_analysis.R should do the following:
 
@@ -36,9 +35,9 @@ Running the run_analysis.R script
 
 2) change directory into what you created in #1
 
-3) clone this repository : git clone https://github.com/dholtz/GettingAndCleaningData
+3) clone this repository : git clone https://github.com/getika5086/g1
 
-4) change directory into the GettingAndCleaningData directory
+4) change directory into the g1 directory
 
 5) start R from the command line
 
